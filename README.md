@@ -1,6 +1,6 @@
 🎬 Movie Data Analysis
 
-A Python-based exploratory data analysis project on a movie dataset containing 19,808 movies and 14 attributes. The project uses Pandas, Matplotlib, and Seaborn to clean the dataset, explore movie trends, analyze ratings, votes, revenue, genres, actors, directors, and answer business-oriented questions.
+Exploratory Data Analysis of 19,808 MoviesA Python-based exploratory data analysis project on a movie dataset containing 19,808 movies and 14 attributes. The project uses Pandas, Matplotlib, and Seaborn to clean the dataset, explore movie trends, analyze ratings, votes, revenue, genres, actors, directors, and answer business-oriented questions.
 
 📊 Dataset
 
